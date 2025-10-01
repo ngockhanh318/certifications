@@ -8,3 +8,16 @@
 
 
 )
+## 📊 Microsoft Power BI Data Analyst
+- **Issued by**: Datapot Analytics Group (Microsoft Partner)  
+- **Date**: August 2025  
+- **Credential ID**: 25000672_PL300  
+- ![Power BI Certificate](https://github.com/ngockhanh318/certifications/blob/main/25000672_PL300.png)
+
+---
+
+## ☁️ Microsoft Azure Fundamentals
+- **Issued by**: Datapot Analytics Group (Microsoft Partner)  
+- **Date**: August 2025  
+- **Credential ID**: (nếu có thì điền vào)  
+- ![Azure Certificate](https://github.com/ngockhanh318/certifications/blob/main/AZURE%20CERTIFICATE.png)
