@@ -18,6 +18,6 @@
 
 ## ☁️ Microsoft Azure Fundamentals
 - **Issued by**: Datapot Analytics Group (Microsoft Partner)  
-- **Date**: August 2025  
+- **Date**: June 2025  
 - **Credential ID**: (nếu có thì điền vào)  
 - ![Azure Certificate](https://github.com/ngockhanh318/certifications/blob/main/AZURE%20CERTIFICATE.png)
